@@ -1,0 +1,30 @@
+{
+	"storyName": "suck my balls",
+	"hideFreeplay": true,
+	"weekBackground": "distrust",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"???",
+			"distrustsans",
+			[
+				0,
+				140,
+				255
+			]
+		]
+	],
+	"weekName": "weekbruh"
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PAPYRUS NOTE RIGHT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PAPYRUS IDLE ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				95,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PAPYRUS NOTE LEFT instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PAPYRUS NOTE DOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PAPYRUS NOTE UP instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/papyrusChill",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "papyrus-chill",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		105,
+		0
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

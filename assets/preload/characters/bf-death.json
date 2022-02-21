@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				202,
+				22
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf dies instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				108,
+				2
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF dead loop instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				1
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF dead confirm instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/distrust_death",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

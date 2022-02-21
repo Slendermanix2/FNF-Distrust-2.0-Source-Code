@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				339
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alphys Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				247,
+				418
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Alphys Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				319,
+				476
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Alphys Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				342
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Alphys Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				440
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Alphys Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alphysRemaster",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "humerus-trio",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		0
+	],
+	"camera_position": [
+		-200,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

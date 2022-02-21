@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="papyrrus.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PAPYRUS IDLE  instance 10000" x="0" y="0" width="269" height="730" frameX="0" frameY="-10" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10001" x="0" y="0" width="269" height="730" frameX="0" frameY="-10" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10002" x="269" y="0" width="264" height="733" frameX="-3" frameY="-7" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10003" x="269" y="0" width="264" height="733" frameX="-3" frameY="-7" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10004" x="533" y="0" width="264" height="735" frameX="-3" frameY="-5" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10005" x="533" y="0" width="264" height="735" frameX="-3" frameY="-5" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10006" x="797" y="0" width="264" height="737" frameX="-3" frameY="-3" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10007" x="1061" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10008" x="1061" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10009" x="1061" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10010" x="1325" y="0" width="264" height="740" frameX="-3" frameY="0" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10011" x="1325" y="0" width="264" height="740" frameX="-3" frameY="0" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10012" x="1325" y="0" width="264" height="740" frameX="-3" frameY="0" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10013" x="1325" y="0" width="264" height="740" frameX="-3" frameY="0" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10014" x="1325" y="0" width="264" height="740" frameX="-3" frameY="0" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10015" x="1589" y="0" width="269" height="736" frameX="0" frameY="-4" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10016" x="1589" y="0" width="269" height="736" frameX="0" frameY="-4" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10017" x="1858" y="0" width="264" height="735" frameX="-3" frameY="-5" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10018" x="1858" y="0" width="264" height="735" frameX="-3" frameY="-5" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10019" x="2122" y="0" width="264" height="738" frameX="-3" frameY="-2" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10020" x="2122" y="0" width="264" height="738" frameX="-3" frameY="-2" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10021" x="2386" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10022" x="2650" y="0" width="264" height="738" frameX="-3" frameY="-2" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10023" x="2650" y="0" width="264" height="738" frameX="-3" frameY="-2" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10024" x="2650" y="0" width="264" height="738" frameX="-3" frameY="-2" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10025" x="2914" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10026" x="2914" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10027" x="2914" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10028" x="2914" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS IDLE  instance 10029" x="2914" y="0" width="264" height="739" frameX="-3" frameY="-1" frameWidth="269" frameHeight="740"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10000" x="3178" y="0" width="330" height="723" frameX="-2" frameY="-12" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10001" x="3178" y="0" width="330" height="723" frameX="-2" frameY="-12" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10002" x="3508" y="0" width="329" height="728" frameX="0" frameY="-7" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10003" x="3508" y="0" width="329" height="728" frameX="0" frameY="-7" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10004" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10005" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10006" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10007" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10008" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10009" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10010" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10011" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10012" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10013" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE DOWN instance 10014" x="0" y="740" width="327" height="735" frameX="-2" frameY="0" frameWidth="332" frameHeight="735"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10000" x="327" y="740" width="349" height="715" frameX="0" frameY="-7" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10001" x="327" y="740" width="349" height="715" frameX="0" frameY="-7" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10002" x="676" y="740" width="342" height="720" frameX="-7" frameY="-2" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10003" x="676" y="740" width="342" height="720" frameX="-7" frameY="-2" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10004" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10005" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10006" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10007" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10008" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10009" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10010" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10011" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10012" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10013" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE LEFT instance 10014" x="1018" y="740" width="338" height="722" frameX="-11" frameY="0" frameWidth="349" frameHeight="722"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10000" x="1356" y="740" width="322" height="732" frameX="-5" frameY="-1" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10001" x="1356" y="740" width="322" height="732" frameX="-5" frameY="-1" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10002" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10003" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10004" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10005" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10006" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10007" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10008" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10009" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10010" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10011" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10012" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10013" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE RIGHT instance 10014" x="1678" y="740" width="317" height="733" frameX="0" frameY="0" frameWidth="327" frameHeight="733"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10000" x="1995" y="740" width="321" height="744" frameX="-2" frameY="0" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10001" x="1995" y="740" width="321" height="744" frameX="-2" frameY="0" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10002" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10003" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10004" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10005" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10006" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10007" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10008" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10009" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10010" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10011" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10012" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10013" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+	<SubTexture name="PAPYRUS NOTE UP instance 10014" x="2316" y="740" width="326" height="740" frameX="0" frameY="-4" frameWidth="326" frameHeight="744"/>
+</TextureAtlas>

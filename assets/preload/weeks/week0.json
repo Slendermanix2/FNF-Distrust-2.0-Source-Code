@@ -1,0 +1,30 @@
+{
+	"storyName": "Humerus trio",
+	"hideFreeplay": false,
+	"weekBackground": "distrust",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Humerus",
+			"distrustsans",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

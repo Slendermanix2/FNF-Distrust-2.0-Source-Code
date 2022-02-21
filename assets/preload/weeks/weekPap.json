@@ -1,0 +1,30 @@
+{
+	"storyName": "Papyrus?",
+	"hideFreeplay": false,
+	"weekBackground": "distrust",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week0",
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"tera-jazz",
+			"papyrus-chill",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

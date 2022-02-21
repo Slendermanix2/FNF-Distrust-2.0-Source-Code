@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Alphys Soul.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Alphys Soul0000" x="0" y="0" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0001" x="305" y="0" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0002" x="610" y="0" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0003" x="913" y="0" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0004" x="1216" y="0" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0005" x="1521" y="0" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0006" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0007" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0008" x="305" y="267" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0009" x="305" y="267" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0010" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0011" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0012" x="305" y="267" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0013" x="305" y="267" width="303" height="267" frameX="-77" frameY="-52" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0014" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0015" x="0" y="267" width="305" height="266" frameX="-80" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0016" x="608" y="267" width="327" height="286" frameX="-69" frameY="-50" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0017" x="608" y="267" width="327" height="286" frameX="-69" frameY="-50" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0018" x="935" y="267" width="350" height="314" frameX="-56" frameY="-35" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0019" x="1285" y="267" width="275" height="239" frameX="-92" frameY="-72" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0020" x="1285" y="267" width="275" height="239" frameX="-92" frameY="-72" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0021" x="1560" y="267" width="210" height="183" frameX="-134" frameY="-105" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0022" x="1560" y="267" width="210" height="183" frameX="-134" frameY="-105" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0023" x="1770" y="267" width="173" height="144" frameX="-157" frameY="-137" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0024" x="0" y="581" width="281" height="240" frameX="-102" frameY="-87" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0025" x="281" y="581" width="347" height="296" frameX="-69" frameY="-59" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0026" x="628" y="581" width="437" height="372" frameX="-24" frameY="-21" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0027" x="1065" y="581" width="485" height="413"/>
+	<SubTexture name="Alphys Soul0028" x="1550" y="581" width="211" height="192" frameX="-160" frameY="-111" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0029" x="1550" y="581" width="211" height="192" frameX="-160" frameY="-111" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0030" x="1761" y="581" width="170" height="177" frameX="-183" frameY="-114" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0031" x="1761" y="581" width="170" height="177" frameX="-183" frameY="-114" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0032" x="0" y="994" width="166" height="179" frameX="-171" frameY="-117" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0033" x="166" y="994" width="153" height="171" frameX="-175" frameY="-136" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0034" x="319" y="994" width="134" height="128" frameX="-195" frameY="-168" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0035" x="453" y="994" width="118" height="110" frameX="-199" frameY="-175" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0036" x="571" y="994" width="118" height="105" frameX="-197" frameY="-173" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0037" x="689" y="994" width="118" height="101" frameX="-195" frameY="-174" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0038" x="807" y="994" width="96" height="82" frameX="-206" frameY="-184" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0039" x="903" y="994" width="70" height="60" frameX="-219" frameY="-195" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0040" x="973" y="994" width="46" height="40" frameX="-231" frameY="-205" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0041" x="1019" y="994" width="24" height="21" frameX="-242" frameY="-214" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0042" x="1043" y="994" width="9" height="7" frameX="-250" frameY="-221" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0043" x="1052" y="994" width="0" height="0" frameX="529" frameY="406" frameWidth="485" frameHeight="413"/>
+	<SubTexture name="Alphys Soul0044" x="1052" y="994" width="0" height="0" frameX="529" frameY="406" frameWidth="485" frameHeight="413"/>
+</TextureAtlas>
